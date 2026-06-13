@@ -1,2 +1,2 @@
 # FUTURE_DS_02
-"Developed an interactive Power BI dashboard to analyze sales trends and provide actionable business insights."
+"Power BI dashboard for Customer Retention & Churn Analysis with interactive visualizations and business insights."
